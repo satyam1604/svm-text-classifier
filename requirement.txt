@@ -1,0 +1,5 @@
+Pandas
+Scikit-Learn
+Pickle
+OS
+streamlit
